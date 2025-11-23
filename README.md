@@ -2,7 +2,7 @@
 
 <h2>👩🏾‍💻 Programming Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/kkennebrew/Application-Programming-Coursework-1)
+  - [AP Coursework 1](https://github.com/kkennebrew/Application-Programming-Coursework-1)
 
 
 
