@@ -1,8 +1,8 @@
 <h1>Hi, I'm Kalah! <br/>
 
-<h2>👩🏾‍💻 Data Science Projects:</h2>
+<h2>👩🏾‍💻 Programming Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/kkennebrew/Application-Programming-Coursework-1)
 
 
 
